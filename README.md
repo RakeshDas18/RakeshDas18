@@ -40,9 +40,12 @@ OTHERS:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RakeshDas18&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RakeshDas18&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshDas18&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=RakeshDas18&theme=aura&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 40px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshDas18&theme=aura&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshDas18&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RakeshDas18&theme=material-palenight&no-frame=false&no-bg=true&margin-w=4)
